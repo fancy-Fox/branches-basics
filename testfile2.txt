@@ -1,0 +1,2 @@
+создать - touch
+вызвать notepad "name" / gedit 
